@@ -8,6 +8,24 @@
   <img src="https://komarev.com/ghpvc/?username=0612divyansh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyansh-shandil-50305b258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/divyanshshandil_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/divyanshshandil_" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://0612divyansh.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:divyanshshandilcollab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me :
@@ -18,6 +36,20 @@
 - 🌱 **I’m currently learning**: Cloud-native Microservices, Async Concurrency Patterns, and 3D Web Graphics with Three.js / WebGL
 - 💬 **Ask me about**: Python, FastAPI, JavaScript, Next.js, System Architecture, Database Design, and Music Production
 - ⚡ **Fun fact**: Beyond software development and system architecture, I am the CEO & Founder of Desi Dhun Private Limited and an artist on YouTube creating music!
+
+---
+
+## 🌐 Connect with Me Across the Web
+
+| Platform | Direct Link | Handle / Note |
+|---|---|---|
+| 💼 **LinkedIn** | [linkedin.com/in/divyansh-shandil-50305b258](https://www.linkedin.com/in/divyansh-shandil-50305b258/) | `divyansh-shandil-50305b258` |
+| 📸 **Instagram** | [instagram.com/divyanshshandil_](https://www.instagram.com/divyanshshandil_/) | `@divyanshshandil_` |
+| 🌐 **Portfolio Website** | [0612divyansh.github.io](https://0612divyansh.github.io) | The Digital Architect |
+| 👥 **Facebook** | [facebook.com/divyanshshandil_](https://www.facebook.com/divyanshshandil_) | Divyansh Shandil |
+| 🤝 **Commudle Community** | [commudle.com/users/divyanshshandil](https://www.commudle.com/users/divyanshshandil) | Divyansh Shandil |
+| ✉️ **Email** | [divyanshshandilcollab@gmail.com](mailto:divyanshshandilcollab@gmail.com) | Direct Collaboration |
+| 🏢 **Ventures** | **Desi Dhun Private Limited** | Founder & CEO |
 
 ---
 
@@ -59,12 +91,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=0612divyansh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0612divyansh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
----
-
-## 📬 Connect with Me
-
-- 🌐 **Portfolio**: [0612divyansh.github.io](https://0612divyansh.github.io)
-- ✉️ **Email**: [divyanshshandilcollab@gmail.com](mailto:divyanshshandilcollab@gmail.com)
-- 🐙 **GitHub**: [@0612divyansh](https://github.com/0612divyansh)
-
