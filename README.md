@@ -92,16 +92,16 @@
 
 ## 🚀 Featured Production Repositories
 
-| Repository | Focus & Architecture | Technology Stack | Status |
-|---|---|---|:---:|
-| 🎓 **[Catalyst Academy LMS](https://github.com/0612divyansh/Catalyst-Academy)** | Full-stack learning management super-app with dual phone/email auth, Quiz CRUD engine, Attendance roll-call registry, and dynamic light/dark themes | `FastAPI` `SQLite` `HTML5` `Vanilla JS` | 🟢 Active |
-| 🛫 **[NEO-PORT Controller](https://github.com/0612divyansh/neoport-air-traffic)** | Real-Time Tactical Air Traffic & Gate Controller with conflict resolution engine and flight status dashboard | `Python` `FastAPI` `SQLite` `WebSockets` | 🟢 Active |
-| 📈 **[Groww Smart Watchlist](https://github.com/0612divyansh/groww-smart-watchlist)** | Real-time stock portfolio tracker, live candlestick visualizations, and responsive market dashboard | `Next.js` `React` `Tailwind` `TypeScript` | 🟢 Active |
-| ⚡ **[Nebula Job Scheduler](https://github.com/0612divyansh/nebula-distributed-job-scheduler)** | High-concurrency distributed job queue engine with worker synchronization, fault recovery, and PDF analytics | `Python` `Concurrency` `Pytest` `Reports` | 🟢 Active |
-| 🎮 **[GTA 3D Prototype](https://github.com/0612divyansh/gta-web-3d-prototype)** | Interactive browser-based 3D open-world city prototype with physics, vehicle mechanics, and camera controller | `Vite` `Three.js` `WebGL` `JavaScript` | 🟢 Active |
-| 🖐️ **[Air Canvas Vision](https://github.com/0612divyansh/air-canvas-gesture-recognition)** | Contactless air canvas using webcam hand tracking, fingertip gesture recognition, and interactive canvas drawing | `MediaPipe` `OpenCV` `HTML5 Canvas` | 🟢 Active |
-| 🩺 **[Diabetes SVM Risk Predictor](https://github.com/0612divyansh/diabetes-svm-risk-prediction)** | Machine learning diabetes prediction report and browser-based real-time SVM model trainer | `TensorFlow.js` `Machine Learning` `HTML5` | 🟢 Active |
-| 🌐 **[Digital Architect Portfolio](https://github.com/0612divyansh/0612divyansh.github.io)** | Personal developer portfolio website showcasing engineering journey, ventures, and interactive demos | `HTML5` `CSS3` `JavaScript` | 🟢 Live |
+| Repository | Focus & Architecture | Technology Stack | Live Deployment | Status |
+|---|---|---|:---:|:---:|
+| 🎓 **[Catalyst Academy LMS](https://github.com/0612divyansh/Catalyst-Academy)** | Full-stack learning management super-app with dual phone/email auth, Quiz CRUD engine, Attendance roll-call registry, and dynamic light/dark themes | `FastAPI` `SQLite` `HTML5` `Vanilla JS` | [🚀 **Launch App**](https://0612divyansh.github.io/Catalyst-Academy/) | 🟢 Live |
+| 🛫 **[NEO-PORT Controller](https://github.com/0612divyansh/neoport-air-traffic)** | Real-Time Tactical Air Traffic & Gate Controller with conflict resolution engine and flight status dashboard | `Python` `FastAPI` `SQLite` `WebSockets` | [🚀 **Launch App**](https://0612divyansh.github.io/neoport-air-traffic/) | 🟢 Live |
+| 📈 **[Groww Smart Watchlist](https://github.com/0612divyansh/groww-smart-watchlist)** | Real-time stock portfolio tracker, live candlestick visualizations, and responsive market dashboard | `Next.js` `React` `Tailwind` `TypeScript` | [🚀 **Launch App**](https://0612divyansh.github.io/groww-smart-watchlist/) | 🟢 Live |
+| ⚡ **[Nebula Job Scheduler](https://github.com/0612divyansh/nebula-distributed-job-scheduler)** | High-concurrency distributed job queue engine with worker synchronization, fault recovery, and PDF analytics | `Python` `Concurrency` `Pytest` `Reports` | [🚀 **Launch App**](https://0612divyansh.github.io/nebula-distributed-job-scheduler/) | 🟢 Live |
+| 🎮 **[GTA 3D Prototype](https://github.com/0612divyansh/gta-web-3d-prototype)** | Interactive browser-based 3D open-world city prototype with physics, vehicle mechanics, and camera controller | `Vite` `Three.js` `WebGL` `JavaScript` | [🚀 **Play 3D Demo**](https://0612divyansh.github.io/gta-web-3d-prototype/) | 🟢 Live |
+| 🖐️ **[Air Canvas Vision](https://github.com/0612divyansh/air-canvas-gesture-recognition)** | Contactless air canvas using webcam hand tracking, fingertip gesture recognition, and interactive canvas drawing | `MediaPipe` `OpenCV` `HTML5 Canvas` | [🚀 **Launch Canvas**](https://0612divyansh.github.io/air-canvas-gesture-recognition/) | 🟢 Live |
+| 🩺 **[Diabetes SVM Risk Predictor](https://github.com/0612divyansh/diabetes-svm-risk-prediction)** | Machine learning diabetes prediction report and browser-based real-time SVM model trainer | `TensorFlow.js` `Machine Learning` `HTML5` | [🚀 **View Report**](https://0612divyansh.github.io/diabetes-svm-risk-prediction/) | 🟢 Live |
+| 🌐 **[Digital Architect Portfolio](https://github.com/0612divyansh/0612divyansh.github.io)** | Personal developer portfolio website showcasing engineering journey, ventures, and interactive demos | `HTML5` `CSS3` `JavaScript` | [🚀 **Visit Site**](https://0612divyansh.github.io) | 🟢 Live |
 
 ---
 
