@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Divyansh%20Shandil&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Digital%20Architect%20%E2%80%A2%20Founder%20%26%20Creator&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36&height=220&section=header&text=Divyansh%20Shandil&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Digital%20Architect%20%E2%80%A2%20Founder%20and%20Creator&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
